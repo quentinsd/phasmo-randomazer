@@ -1,0 +1,19 @@
+b, h2, label
+{
+	color: white;
+
+}
+label {
+	font-size: 0.8rem;
+}
+b {
+	font-size: 0.9rem;
+}
+
+.input {
+	margin-left: 5px;
+}
+
+.margeR {
+	margin-right: 10px;
+}
