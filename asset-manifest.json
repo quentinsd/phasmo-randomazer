@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phasmo-randomazer/static/css/main.0fa72334.chunk.css",
+    "main.js": "/phasmo-randomazer/static/js/main.ad6653af.chunk.js",
+    "main.js.map": "/phasmo-randomazer/static/js/main.ad6653af.chunk.js.map",
+    "runtime-main.js": "/phasmo-randomazer/static/js/runtime-main.88697e2c.js",
+    "runtime-main.js.map": "/phasmo-randomazer/static/js/runtime-main.88697e2c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/phasmo-randomazer/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d5e79a67.chunk.js": "/phasmo-randomazer/static/js/2.d5e79a67.chunk.js",
+    "static/js/2.d5e79a67.chunk.js.map": "/phasmo-randomazer/static/js/2.d5e79a67.chunk.js.map",
+    "static/js/3.3dbab842.chunk.js": "/phasmo-randomazer/static/js/3.3dbab842.chunk.js",
+    "static/js/3.3dbab842.chunk.js.map": "/phasmo-randomazer/static/js/3.3dbab842.chunk.js.map",
+    "index.html": "/phasmo-randomazer/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/phasmo-randomazer/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.0fa72334.chunk.css.map": "/phasmo-randomazer/static/css/main.0fa72334.chunk.css.map",
+    "static/js/2.d5e79a67.chunk.js.LICENSE.txt": "/phasmo-randomazer/static/js/2.d5e79a67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88697e2c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d5e79a67.chunk.js",
+    "static/css/main.0fa72334.chunk.css",
+    "static/js/main.ad6653af.chunk.js"
+  ]
+}
