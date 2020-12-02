@@ -1,13 +1,13 @@
-b, h2, label
+b, h2, label, h4
 {
 	color: white;
 
 }
 label {
-	font-size: 0.8rem;
+	font-size: 1rem;
 }
 b {
-	font-size: 0.9rem;
+	font-size: 1rem;
 }
 
 .input {
@@ -16,4 +16,19 @@ b {
 
 .margeR {
 	margin-right: 10px;
+}
+p {
+	color: white
+}
+
+footer {
+	background-color: darkslategray;
+	position: absolute;
+	bottom: 0;
+
+	height: 80px;
+	width: 100vw;
+}
+.svg {
+	w/_/
 }
